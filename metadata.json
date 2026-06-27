@@ -1,0 +1,6 @@
+{
+  "name": "WanderWise",
+  "description": "An AI-powered travel companion app with a SaaS landing page and an interactive app shell.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
